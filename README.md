@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Maiku3
+- 👋 Hi, I’m @Maiku3, a 2nd year Comp Sci. Student at Carleton University.
 - 👀 I’m interested in programming, gaming and art!
-- 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me @mikelin@cmail.carleton.ca
 
 <!---
