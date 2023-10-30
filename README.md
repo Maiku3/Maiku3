@@ -8,7 +8,7 @@
 
 * I am currently a Student Programmer at @CFIA :toolbox:.
 
-* I'm currently learning🌱:
+* I am currently learning🌱:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
   - Machine Learning with Python
 
