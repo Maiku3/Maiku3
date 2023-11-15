@@ -4,13 +4,13 @@
 ![Screenshot](github-header-image.png)
 
 ## About me
-* I am currently a third year student from Carleton University in Computer Science with specialization in AI & Machine Learining 🤖:
+* I am currently a third year student from Carleton University in Computer Science with specialization in AI & Machine Learining 🤖.
 
 * I am currently a Student Programmer at @CFIA :toolbox:.
 
 * I am currently learning🌱:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Maiku3/)
-  - Machine Learning with Python
+  - Machine Learning with Python, including TensorFlow
 
 ## My Skills
 ### Programming languages 👨‍💻
