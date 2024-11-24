@@ -6,7 +6,7 @@
 ## About me
 * I am a third-year student at Carleton University in Computer Science with a specialization in AI & Machine Learning 🤖.
 
-* I finished my 8-month work term as a Co-op Software Developer at the CFIA :toolbox:.
+* I have finished 3 co-op work terms as a Co-op Software Developer at the CFIA :toolbox:.
 
 * I am currently learning🌱:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/Maiku3/)
